@@ -7,10 +7,6 @@
   #app-img {
     display: none;
   }
-  .app-button {
-    display: flex;
-    justify-content: center;
-  }
 }
 body {
   margin: 60px auto;
